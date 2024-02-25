@@ -9,3 +9,9 @@ Repositorio creado para entrega de codigos de ejemplos practicos C++
 3.	Finalmente, se imprime el resultado del cálculo del factorial en la consola.
 Este ejemplo ilustra cómo las funciones recursivas pueden ser utilizadas para resolver problemas de manera elegante y concisa, dividiendo el problema original en subproblemas más pequeños. La recursividad en el cálculo factorial refleja la definición matemática del factorial como el producto de un número por el factorial del número anterior.
 
+# [*Parametro*](https://github.com/keriz-rh/Ejemplos-C/blob/main/parametro.cpp)
+**Explicación:**
++ "parámetro" y "argumento" no son lo mismo en programación. Son conceptos relacionados, pero tienen significados distintos:
+Parámetro: Es una variable o identificador que se utiliza en la definición de una función para representar el valor que se espera que se pase a la función cuando se la llama. Los parámetros son parte de la declaración de + la función y actúan como marcadores de posición.
++ Argumento: Es el valor real que se proporciona cuando se llama a una función. Los argumentos se asignan a los parámetros correspondientes de la función durante la llamada. Son los datos reales que la función utilizará en su ejecución.
++ En este ejemplo, la función suma tiene dos parámetros (a y b). Cuando la función se llama en main con los valores 3 y 4, esos valores se convierten en los argumentos que se asignan a los parámetros a y b. El resultado es la suma de esos dos valores, que se imprime en la consola. En este caso, 3 y 4 son los argumentos que se pasan a los parámetros de la función.
