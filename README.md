@@ -1,9 +1,9 @@
 # Ejemplos-C++
 Repositorio creado para entrega de codigos de ejemplos practicos C++
 
-[*Recursividad* ejemplo](https://github.com/keriz-rh/Ejemplos-C-/blob/main/Ejemplorecursividad.cpp)
+# [*Recursividad* ejemplo](https://github.com/keriz-rh/Ejemplos-C-/blob/main/Ejemplorecursividad.cpp)
 
-# # Explicación:
+**Explicación:**
 1.	La función factorial es recursiva y se define para calcular el factorial de un número n. En el caso base (cuando n es 0 o 1), la función devuelve 1. En caso contrario, realiza una llamada recursiva multiplicando n por el factorial del número anterior (n−1).
 2.	En la función main, el usuario ingresa un número entero. Luego, se llama a la función factorial con ese número como argumento, y el resultado se almacena en la variable resultado.
 3.	Finalmente, se imprime el resultado del cálculo del factorial en la consola.
