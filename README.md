@@ -15,3 +15,10 @@ Este ejemplo ilustra cómo las funciones recursivas pueden ser utilizadas para r
 Parámetro: Es una variable o identificador que se utiliza en la definición de una función para representar el valor que se espera que se pase a la función cuando se la llama. Los parámetros son parte de la declaración de + la función y actúan como marcadores de posición.
 + Argumento: Es el valor real que se proporciona cuando se llama a una función. Los argumentos se asignan a los parámetros correspondientes de la función durante la llamada. Son los datos reales que la función utilizará en su ejecución.
 + En este ejemplo, la función suma tiene dos parámetros (a y b). Cuando la función se llama en main con los valores 3 y 4, esos valores se convierten en los argumentos que se asignan a los parámetros a y b. El resultado es la suma de esos dos valores, que se imprime en la consola. En este caso, 3 y 4 son los argumentos que se pasan a los parámetros de la función.
+
+# [programa de funciones como parámetros](https://github.com/keriz-rh/Ejemplos-C/blob/main/Calculadora.cpp)
+**Este código en C++ demuestra el uso de funciones y objetos de función para realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.**
+<Observaciones:>
+
++ Se utiliza la biblioteca <functional> para trabajar con objetos de función (function).
++ El código está diseñado para ser simple y educativo, demostrando la flexibilidad de las funciones y objetos de función en C++.
