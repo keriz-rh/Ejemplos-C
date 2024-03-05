@@ -18,7 +18,7 @@ int calcularSuma(int *arr, int size) {
 int main() {
     // Paso 1: Solicitar al usuario la cantidad de valores a ingresar
     int n;
-    cout << "¿Cuántos valores ingresará? ";
+    cout << "¿Cuantos valores ingresara? ";
     cin >> n;
 
     // Paso 2: Reservar memoria para el arreglo dinámicamente
