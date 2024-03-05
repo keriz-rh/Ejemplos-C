@@ -27,7 +27,9 @@ int invoke (int x, int y, function<int(int,int)>func)
     return func(x , y);
 }
 
-/*int main ()
+/*
+Esté es el codigo automatico.
+int main ()
 {   //Suma: 20 + 10
     cout << "Addition of 20 and 10 is ";
     cout << invoke(20, 10, &add)
@@ -47,6 +49,7 @@ int invoke (int x, int y, function<int(int,int)>func)
     return 0;
 }*/
 
+//Codigo 
 int main ()
 {
     // Se solicita al usuario que ingrese dos números
