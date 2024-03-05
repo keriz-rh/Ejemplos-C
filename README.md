@@ -22,3 +22,21 @@ Parámetro: Es una variable o identificador que se utiliza en la definición de 
 
 + Se utiliza la biblioteca <functional> para trabajar con objetos de función (function).
 + El código está diseñado para ser simple y educativo, demostrando la flexibilidad de las funciones y objetos de función en C++.
+
+# [Aritmetica de punteros](https://github.com/keriz-rh/Ejemplos-C/blob/main/Arimetica%20de%20punteros.cpp)
+
++ Paso 1: Se solicita al usuario que ingrese la cantidad de valores (n) que desea introducir.
+
++ Paso 2: Se asigna dinámicamente memoria para un arreglo de tamaño n usando el operador new.
+
++ Paso 3: Se utiliza un bucle for para que el usuario ingrese los valores del arreglo uno por uno.
+
++ Paso 4: Se llama a la función calcularSuma para obtener la suma de los valores en el arreglo.
+
++ Paso 5: Se muestra la suma en la pantalla.
+
++ Paso 6: Se llama a la función calcularPromedio para obtener el promedio y se muestra en la pantalla.
+
++ Paso 7: Se libera la memoria asignada dinámicamente utilizando delete[].
+
++ Paso 8: Se retorna 0 para indicar que la ejecución del programa fue exitosa.
